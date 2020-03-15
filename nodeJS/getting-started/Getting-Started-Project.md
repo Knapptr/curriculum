@@ -71,4 +71,5 @@ If you're planning to submit a live demo with your student solution, one of the 
 - [Aron's Solution](https://github.com/aronfischer/first_nodejs_app)
 - [Fred's Solution](https://github.com/fchasin/FirstWebsite)
 - [Emil Dimitrov's Solution](https://github.com/edmtrv/basic-information-site)
+- [Tyler Knapp's Solution] (https://github.com/Knapptr/simpleNodeSite)
 </details>
