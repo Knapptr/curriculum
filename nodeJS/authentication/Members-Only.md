@@ -26,6 +26,7 @@ To add your solution to the list below, edit this [file](https://github.com/TheO
   <summary> Show Student Solutions </summary>
 
 - Add your solution below this line!
+* [Tyler Knapp's Solution](https://github.com/Knapptr/Secret_Club) - [View in browser](https://boiling-ridge-65153.herokuapp.com)
 * [Zakariye Yusuf's Solution](https://github.com/ZYusuf10/exclusiveOrg) - [View in browser](https://exclusiveorg.herokuapp.com/)
 * [Jayhawkfan8484's Solution](https://github.com/jayhawkfan8484/members-only) - [View in browser](https://damp-harbor-79847.herokuapp.com/messages)
 * [Vollantre's Solution](https://github.com/vollantre/members-only) - [View in browser](https://infinite-fortress-12352.herokuapp.com)
